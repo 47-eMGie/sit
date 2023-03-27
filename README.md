@@ -32,7 +32,9 @@ Output:
 
 ### Installation
 You will have two executable files:
+
 `sit` - for Linux/MacOS
+
 `sit.exe` - for Windows system
 
 You don't need both. Choose the one that matches your operating system and run it as shown in next section. You can delete other one without any consequences.
@@ -52,9 +54,10 @@ sit.exe arg1 arg2
 
 ---
 
-#####Where
+##### Where
 
 `arg1` - name of the file.
+
 `arg2` - (optional) - separator character. If not given, separator will be set to space.
 
 ---
